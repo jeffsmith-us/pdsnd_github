@@ -1,9 +1,9 @@
-### Date created
+## Explore US Bikeshare Data
+Project created as part of [Udacity Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
+
+### Timeline 
 2022-12-17 - Project files finalized and submitted to Udacity for review.
 2022-12-26 - GitHub repository created for project and files initially committed.
-
-### Project Title
-Explore US Bikeshare Data
 
 ### Description
 This project provides an interactive Python script to explore statistics derived from data collected by [Motivate](https://motivateco.com/) for a bikeshare program conducted in 2017.
@@ -25,7 +25,7 @@ The script provides the option for further filtering the statistics by day of th
 ### Credits
 Interactive Python script originally created from `bikeshare_2.py` template provided by Udacity for this project, with contributions informed by "practice problems" presented by Udacity associated with this project.
 
-#### References consulted
+### References consulted
 [Pandas API reference documentation](https://pandas.pydata.org/pandas-docs/stable/reference/)
 - [Series.dt.day_name](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.day_name.html)
 - [Series.dt.month_name](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.month_name.html)
