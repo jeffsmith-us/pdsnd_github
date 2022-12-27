@@ -218,10 +218,10 @@ def print_rawdata(df):
             # Stops the loop if we've shown all rows
             print("All {} rows of raw data have been displayed!\n".format(len(df)))
             break
-        else:
-            # Provide option to continue the loop and set startrow where we left off
-            show_data = input("\nWould you like to view more raw data? Enter 'yes' to display raw data or anything else to exit.\n").lower()
-            startrow = stoprow
+
+        # Provide option to continue the loop and set startrow where we left off
+        show_data = input("\nWould you like to view more raw data? Enter 'yes' to display raw data or anything else to exit.\n").lower()
+        startrow = stoprow
     
     
 
