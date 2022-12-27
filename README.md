@@ -18,9 +18,9 @@ The script provides the option for further filtering the statistics by day of th
 ### Files used
 - `bikeshare_2.py` - interactive Python script
 - Cleaned CSV files with bikeshare data for each city:
- - `chicago.csv`
- - `new_york_city.csv`
- - `washington.csv`
+  - `chicago.csv`
+  - `new_york_city.csv`
+  - `washington.csv`
 
 ### Credits
 Interactive Python script originally created from `bikeshare_2.py` template provided by Udacity for this project, with contributions informed by "practice problems" presented by Udacity associated with this project.
